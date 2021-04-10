@@ -1,0 +1,13 @@
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.exe
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.deps.json
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.runtimeconfig.json
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.runtimeconfig.dev.json
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.dll
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.pdb
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.csprojAssemblyReference.cache
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.AssemblyInfo.cs
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.dll
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.pdb
+C:\Users\leandro.i.farias\source\repos\OlaMundo\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.genruntimeconfig.cache
