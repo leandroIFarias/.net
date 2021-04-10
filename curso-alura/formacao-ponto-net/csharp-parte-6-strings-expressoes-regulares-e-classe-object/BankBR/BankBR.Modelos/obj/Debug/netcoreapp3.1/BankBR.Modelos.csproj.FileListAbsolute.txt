@@ -1,0 +1,16 @@
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-5-bibliotecasDlls-documentacao-e-nuget\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-5-bibliotecasDlls-documentacao-e-nuget\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-5-bibliotecasDlls-documentacao-e-nuget\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-5-bibliotecasDlls-documentacao-e-nuget\BankBR\BankBR.Modelos\bin\Debug\netcoreapp3.1\BankBR.Modelos.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-5-bibliotecasDlls-documentacao-e-nuget\BankBR\BankBR.Modelos\bin\Debug\netcoreapp3.1\BankBR.Modelos.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-5-bibliotecasDlls-documentacao-e-nuget\BankBR\BankBR.Modelos\bin\Debug\netcoreapp3.1\BankBR.Modelos.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-5-bibliotecasDlls-documentacao-e-nuget\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-5-bibliotecasDlls-documentacao-e-nuget\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-6-strings-expressoes-regulares-e-classe-object\BankBR\BankBR.Modelos\bin\Debug\netcoreapp3.1\BankBR.Modelos.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-6-strings-expressoes-regulares-e-classe-object\BankBR\BankBR.Modelos\bin\Debug\netcoreapp3.1\BankBR.Modelos.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-6-strings-expressoes-regulares-e-classe-object\BankBR\BankBR.Modelos\bin\Debug\netcoreapp3.1\BankBR.Modelos.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-6-strings-expressoes-regulares-e-classe-object\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-6-strings-expressoes-regulares-e-classe-object\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-6-strings-expressoes-regulares-e-classe-object\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-6-strings-expressoes-regulares-e-classe-object\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-6-strings-expressoes-regulares-e-classe-object\BankBR\BankBR.Modelos\obj\Debug\netcoreapp3.1\BankBR.Modelos.pdb
