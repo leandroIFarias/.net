@@ -1,0 +1,12 @@
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\bin\Debug\netcoreapp3.1\7-BankBR.exe
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\bin\Debug\netcoreapp3.1\7-BankBR.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\bin\Debug\netcoreapp3.1\7-BankBR.runtimeconfig.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\bin\Debug\netcoreapp3.1\7-BankBR.runtimeconfig.dev.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\bin\Debug\netcoreapp3.1\7-BankBR.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\bin\Debug\netcoreapp3.1\7-BankBR.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\obj\Debug\netcoreapp3.1\7-BankBR.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\obj\Debug\netcoreapp3.1\7-BankBR.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\obj\Debug\netcoreapp3.1\7-BankBR.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\obj\Debug\netcoreapp3.1\7-BankBR.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\obj\Debug\netcoreapp3.1\7-BankBR.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\7-BankBR\obj\Debug\netcoreapp3.1\7-BankBR.genruntimeconfig.cache

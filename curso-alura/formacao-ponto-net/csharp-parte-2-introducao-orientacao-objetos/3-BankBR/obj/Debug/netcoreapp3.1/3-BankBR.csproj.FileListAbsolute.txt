@@ -1,0 +1,13 @@
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\bin\Debug\netcoreapp3.1\3-BankBR.exe
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\bin\Debug\netcoreapp3.1\3-BankBR.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\bin\Debug\netcoreapp3.1\3-BankBR.runtimeconfig.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\bin\Debug\netcoreapp3.1\3-BankBR.runtimeconfig.dev.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\bin\Debug\netcoreapp3.1\3-BankBR.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\bin\Debug\netcoreapp3.1\3-BankBR.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\obj\Debug\netcoreapp3.1\3-BankBR.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\obj\Debug\netcoreapp3.1\3-BankBR.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\obj\Debug\netcoreapp3.1\3-BankBR.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\obj\Debug\netcoreapp3.1\3-BankBR.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\obj\Debug\netcoreapp3.1\3-BankBR.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\obj\Debug\netcoreapp3.1\3-BankBR.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-2-introducao-orientacao-objetos\3-BankBR\obj\Debug\netcoreapp3.1\3-BankBR.genruntimeconfig.cache
