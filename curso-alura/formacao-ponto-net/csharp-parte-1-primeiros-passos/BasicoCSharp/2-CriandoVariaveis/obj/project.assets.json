@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\projetos-ponto-net\\curso-alura\\formacao-ponto-net\\csharp-parte-1-primeiros-passos\\BasicoCSharp\\02-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectUniqueName": "C:\\projetos\\projetos-ponto-net\\curso-alura\\formacao-ponto-net\\csharp-parte-1-primeiros-passos\\BasicoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
       "projectName": "2-CriandoVariaveis",
-      "projectPath": "C:\\projetos\\projetos-ponto-net\\curso-alura\\formacao-ponto-net\\csharp-parte-1-primeiros-passos\\BasicoCSharp\\02-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectPath": "C:\\projetos\\projetos-ponto-net\\curso-alura\\formacao-ponto-net\\csharp-parte-1-primeiros-passos\\BasicoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
       "packagesPath": "C:\\Users\\leandro.i.farias\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\projetos-ponto-net\\curso-alura\\formacao-ponto-net\\csharp-parte-1-primeiros-passos\\BasicoCSharp\\02-CriandoVariaveis\\obj\\",
+      "outputPath": "C:\\projetos\\projetos-ponto-net\\curso-alura\\formacao-ponto-net\\csharp-parte-1-primeiros-passos\\BasicoCSharp\\2-CriandoVariaveis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
