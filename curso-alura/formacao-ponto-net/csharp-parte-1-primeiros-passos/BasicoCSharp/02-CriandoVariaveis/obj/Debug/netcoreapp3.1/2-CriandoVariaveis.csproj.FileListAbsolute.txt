@@ -1,0 +1,13 @@
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.exe
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.runtimeconfig.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.runtimeconfig.dev.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\02-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.genruntimeconfig.cache
