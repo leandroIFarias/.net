@@ -1,0 +1,13 @@
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\bin\Debug\netcoreapp3.1\BankBR.exe
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\bin\Debug\netcoreapp3.1\BankBR.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\bin\Debug\netcoreapp3.1\BankBR.runtimeconfig.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\bin\Debug\netcoreapp3.1\BankBR.runtimeconfig.dev.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\bin\Debug\netcoreapp3.1\BankBR.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\bin\Debug\netcoreapp3.1\BankBR.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\obj\Debug\netcoreapp3.1\BankBR.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\obj\Debug\netcoreapp3.1\BankBR.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\obj\Debug\netcoreapp3.1\BankBR.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\obj\Debug\netcoreapp3.1\BankBR.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\obj\Debug\netcoreapp3.1\BankBR.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\obj\Debug\netcoreapp3.1\BankBR.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-3-entendendo-heranca-interface\BankBR\BankBR\obj\Debug\netcoreapp3.1\BankBR.genruntimeconfig.cache
