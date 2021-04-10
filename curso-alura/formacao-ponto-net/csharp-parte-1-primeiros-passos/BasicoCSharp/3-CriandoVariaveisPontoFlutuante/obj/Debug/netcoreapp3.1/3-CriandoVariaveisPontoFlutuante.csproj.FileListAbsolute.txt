@@ -1,0 +1,13 @@
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.exe
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-ponto-net\csharp-parte-1-primeiros-passos\BasicoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
