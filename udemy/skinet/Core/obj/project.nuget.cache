@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qguqRLno/73OcZ48PxnMytLHSzIV/ihD4g+BRyEcz7OHKQp2imi0qPTl9PpZT+G8NL2gryEmSgL+eggjX6WsBQ==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\projetos-ponto-net\\udemy\\skinet\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leandro.i.farias\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
