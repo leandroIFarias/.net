@@ -1,0 +1,15 @@
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.deps.json
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.runtimeconfig.json
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.runtimeconfig.dev.json
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.dll
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.pdb
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.csprojAssemblyReference.cache
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.AssemblyInfoInputs.cache
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.AssemblyInfo.cs
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.csproj.CoreCompileInputs.cache
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.dll
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.pdb
+C:\projetos\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.genruntimeconfig.cache
