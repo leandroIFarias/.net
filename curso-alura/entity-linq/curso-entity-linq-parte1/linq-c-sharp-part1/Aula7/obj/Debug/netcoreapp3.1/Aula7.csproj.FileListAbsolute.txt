@@ -1,0 +1,4 @@
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\Aula7\obj\Debug\netcoreapp3.1\Aula7.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\Aula7\obj\Debug\netcoreapp3.1\Aula7.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\Aula7\obj\Debug\netcoreapp3.1\Aula7.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\Aula7\obj\Debug\netcoreapp3.1\Aula7.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\bin\Debug\AluraTunes.mdf
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\bin\Debug\AluraTunes_log.ldf
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\bin\Debug\EntityFramework.dll
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\bin\Debug\EntityFramework.xml
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\obj\Debug\AluraTunesEF.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\obj\Debug\AluraTunesEF.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\obj\Debug\AluraTunesEF.csproj.CopyComplete
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\obj\Debug\AluraTunesData.dll
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\AluraTunesEF\obj\Debug\AluraTunesData.pdb

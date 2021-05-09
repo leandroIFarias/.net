@@ -1,0 +1,13 @@
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\bin\Debug\netcoreapp3.1\Aula1.exe
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\bin\Debug\netcoreapp3.1\Aula1.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\bin\Debug\netcoreapp3.1\Aula1.runtimeconfig.json
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\bin\Debug\netcoreapp3.1\Aula1.runtimeconfig.dev.json
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\bin\Debug\netcoreapp3.1\Aula1.dll
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\bin\Debug\netcoreapp3.1\Aula1.pdb
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\obj\Debug\netcoreapp3.1\Aula1.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\obj\Debug\netcoreapp3.1\Aula1.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\obj\Debug\netcoreapp3.1\Aula1.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\obj\Debug\netcoreapp3.1\Aula1.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\obj\Debug\netcoreapp3.1\Aula1.dll
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\obj\Debug\netcoreapp3.1\Aula1.pdb
+C:\projetos\projetos-ponto-net\curso-alura\entity-linq\curso-entity-linq-parte1\linq-c-sharp-part1\linq-c-sharp-part1\obj\Debug\netcoreapp3.1\Aula1.genruntimeconfig.cache
