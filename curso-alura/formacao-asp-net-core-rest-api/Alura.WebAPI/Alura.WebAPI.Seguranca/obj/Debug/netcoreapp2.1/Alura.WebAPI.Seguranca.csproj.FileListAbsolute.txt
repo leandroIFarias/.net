@@ -1,0 +1,12 @@
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csproj.CopyComplete
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb

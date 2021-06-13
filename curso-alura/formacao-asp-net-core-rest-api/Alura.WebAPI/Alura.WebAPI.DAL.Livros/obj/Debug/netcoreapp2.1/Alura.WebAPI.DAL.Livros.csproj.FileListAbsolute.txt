@@ -1,0 +1,12 @@
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.deps.json
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csprojAssemblyReference.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfo.cs
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CopyComplete
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\projetos\projetos-ponto-net\curso-alura\formacao-asp-net-core-rest-api\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
